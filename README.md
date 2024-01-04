@@ -25,5 +25,5 @@ const sleep = require('sleep3');
 
 ### Support string parameters
 
-'s','m','h','d'  
-like '3s','2m','1h35s'
+'s', 'm', 'h', 'd'  
+like '3s', '2m', '1h35s'
