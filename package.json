@@ -1,0 +1,11 @@
+{
+  "name": "sleep3",
+  "version": "1.0.0",
+  "description": "Aysnc sleep, used on ES6+ (async/await), Support string parameters like '10s' '5m', and numeric parameters millisecond.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
