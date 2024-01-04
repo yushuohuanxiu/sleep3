@@ -6,6 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yushuohuanxiu/sleep3.git"
+  },
+  "author": "nulijiacanfan <nulijiacanfan@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/yushuohuanxiu/sleep3#readme",
+  "keywords": ["sleep"]
 }
